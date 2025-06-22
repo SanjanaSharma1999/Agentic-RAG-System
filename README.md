@@ -1,4 +1,4 @@
-# 🤖 Vector-Based Agentic RAG System
+# 🤖 Agentic RAG System : Multi_Source_Intelligence_Platform
 
 An advanced, multi-agent Retrieval-Augmented Generation (RAG) system that combines vector search, autonomous reasoning, real-time data sources, and modular agent orchestration to solve complex queries. This project is designed as a production-grade AI system and is ideal for demonstrating real-world applications in AI, blockchain analytics, and intelligent automation.
 
